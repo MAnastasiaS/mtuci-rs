@@ -6,4 +6,5 @@ members = [
     "ch4",
     "homework_1",
     "hw2",
+    "guessing_game"
 ]
