@@ -4,12 +4,38 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "link_ref"
-path = "src/link_ref.rs"
+name = "4-2.rs"
+path = "src/4-2.rs"
 
 [[bin]]
-name = "slices"
-path = "src/slices.rs"
+name = "4-3.rs"
+path = "src/4-3.rs"
+
+[[bin]]
+name = "4-4.rs"
+path = "src/4-4.rs"
+
+[[bin]]
+name = "4-5.rs"
+path = "src/4-5.rs"
+
+[[bin]]
+name = "4-6.rs"
+path = "src/4-6.rs"
+
+[[bin]]
+name = "4-7.rs"
+path = "src/4-7.rs"
+
+[[bin]]
+name = "4-8.rs"
+path = "src/4-8.rs"
+
+[[bin]]
+name = "4-9.rs"
+path = "src/4-9.rs"
+
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
