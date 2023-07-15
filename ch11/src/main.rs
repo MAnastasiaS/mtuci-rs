@@ -1,3 +1,3 @@
-$ cargo new adder --lib
-     Created library `adder` project
-$ cd adder
+//$ cargo new adder --lib
+//     Created library `adder` project
+//$ cd adder
