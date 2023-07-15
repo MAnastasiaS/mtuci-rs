@@ -1,0 +1,68 @@
+[package]
+name = "ch5"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "5-2"
+path = "src/5-2.rs"
+
+[[bin]]
+name = "5-3"
+path = "src/5-3.rs"
+
+[[bin]]
+name = "5-4"
+path = "src/5-4.rs"
+
+[[bin]]
+name = "5-5"
+path = "src/5-5.rs"
+
+[[bin]]
+name = "5-6"
+path = "src/5-6.rs"
+
+[[bin]]
+name = "5-7"
+path = "src/5-7.rs"
+
+[[bin]]
+name = "5-8"
+path = "src/5-8.rs"
+
+[[bin]]
+name = "5-9"
+path = "src/5-9.rs"
+
+[[bin]]
+name = "5-10"
+path = "src/5-10.rs"
+
+[[bin]]
+name = "5-11"
+path = "src/5-11.rs"
+
+[[bin]]
+name = "5-12"
+path = "src/5-12.rs"
+
+[[bin]]
+name = "5-13"
+path = "src/5-13.rs"
+
+[[bin]]
+name = "5-14"
+path = "src/5-14.rs"
+
+[[bin]]
+name = "5-15"
+path = "src/5-15.rs"
+
+[[bin]]
+name = "5-16"
+path = "src/5-16.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
