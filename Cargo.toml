@@ -7,5 +7,6 @@ members = [
     "hw2",
     "guessing_game",
     "ch5",
-    "ch6"
+    "ch6",
+    "ch7"
 ]
